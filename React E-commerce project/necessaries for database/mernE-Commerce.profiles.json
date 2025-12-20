@@ -1,0 +1,58 @@
+[{
+  "_id": {
+    "$oid": "65a2c4b1f1ae62750f402665"
+  },
+  "userID": {
+    "$oid": "67fe9154b399c80cbc78822c"
+  },
+  "createdAt": {
+    "$date": "2024-01-13T17:13:21.413Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-03T16:12:45.189Z"
+  },
+  "shipmentAddress": "Shekhertek 8,Mohammadpur, Adabor, Dhaka-1207",
+  "shipmentCity": "Dhaka",
+  "shipmentCountry": "Bangladesh",
+  "shipmentName": "Rabbil Hasan Qadery",
+  "shipmentPhone": "01785388919",
+  "shipmentPostcode": "1207",
+  "shipmentState": "Dhaka",
+  "customerAddress": "Shekhertek 8,Mohammadpur, Adabor, Dhaka-1207",
+  "customerCity": "Dhaka",
+  "customerCountry": "Bangladesh",
+  "customerFax": "01785388919",
+  "customerName": "Rabbil Hasan Patoary",
+  "customerPhone": "01785388919",
+  "customerPostcode": "1207",
+  "customerState": "chittagong"
+},
+{
+  "_id": {
+    "$oid": "67ffe6752e81af26b8cf9c56"
+  },
+  "userID": {
+    "$oid": "684a508b4baec78c566d045e"
+  },
+  "createdAt": {
+    "$date": "2025-04-16T17:18:45.735Z"
+  },
+  "customerAddress": "Shekhertek 8,Mohammadpur, Adabor, Dhaka-1207",
+  "customerCity": "Dhaka",
+  "customerCountry": "Bangladesh",
+  "customerFax": "01785388919",
+  "customerName": "Jamal Uddin",
+  "customerPhone": "01785388919",
+  "customerPostCode": "1207",
+  "customerState": "Dhaka",
+  "updatedAt": {
+    "$date": "2025-06-06T14:24:07.233Z"
+  },
+  "shipmentAddress": "Shekhertek 8,Mohammadpur, Adabor, Dhaka-1207",
+  "shipmentCity": "Dhaka",
+  "shipmentCountry": "Bangladesh",
+  "shipmentName": "Rabbil Hasan",
+  "shipmentPhone": "01785388919",
+  "shipmentPostCode": "1207",
+  "shipmentState": "Dhaka"
+}]

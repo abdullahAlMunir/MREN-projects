@@ -1,0 +1,336 @@
+[{
+  "_id": {
+    "$oid": "6866975440066643bad530dd"
+  },
+  "userID": {
+    "$oid": "67fe9154b399c80cbc78822c"
+  },
+  "productID": {
+    "$oid": "651da44d1ce672f6c8b7961d"
+  },
+  "invoiceID": {
+    "$oid": "6866975440066643bad530db"
+  },
+  "qty": 2,
+  "price": 16000,
+  "color": "Black",
+  "size": "13",
+  "createdAt": {
+    "$date": "2025-07-03T14:44:36.447Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-03T14:44:36.447Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6866975440066643bad530de"
+  },
+  "userID": {
+    "$oid": "67fe9154b399c80cbc78822c"
+  },
+  "productID": {
+    "$oid": "651da44d1ce672f6c8b7961d"
+  },
+  "invoiceID": {
+    "$oid": "6866975440066643bad530db"
+  },
+  "qty": 3,
+  "price": 16000,
+  "color": "Black",
+  "size": "13",
+  "createdAt": {
+    "$date": "2025-07-03T14:44:36.447Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-03T14:44:36.447Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6866975440066643bad530df"
+  },
+  "userID": {
+    "$oid": "67fe9154b399c80cbc78822c"
+  },
+  "productID": {
+    "$oid": "651da44d1ce672f6c8b7961d"
+  },
+  "invoiceID": {
+    "$oid": "6866975440066643bad530db"
+  },
+  "qty": 4,
+  "price": 16000,
+  "color": "Black",
+  "size": "13",
+  "createdAt": {
+    "$date": "2025-07-03T14:44:36.447Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-03T14:44:36.447Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6866aaacd2f19c1305ecb846"
+  },
+  "userID": {
+    "$oid": "67fe9154b399c80cbc78822c"
+  },
+  "productID": {
+    "$oid": "64f8ba608fcc62fe3de37a2e"
+  },
+  "invoiceID": {
+    "$oid": "6866aaacd2f19c1305ecb844"
+  },
+  "qty": 3,
+  "price": 70,
+  "color": "Red",
+  "size": "13",
+  "createdAt": {
+    "$date": "2025-07-03T16:07:08.819Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-03T16:07:08.819Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6866aaacd2f19c1305ecb847"
+  },
+  "userID": {
+    "$oid": "67fe9154b399c80cbc78822c"
+  },
+  "productID": {
+    "$oid": "64f8ba608fcc62fe3de37a2e"
+  },
+  "invoiceID": {
+    "$oid": "6866aaacd2f19c1305ecb844"
+  },
+  "qty": 5,
+  "price": 70,
+  "color": "Red",
+  "size": "13",
+  "createdAt": {
+    "$date": "2025-07-03T16:07:08.819Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-03T16:07:08.819Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6866ab2a01ac0111f6808663"
+  },
+  "userID": {
+    "$oid": "67fe9154b399c80cbc78822c"
+  },
+  "productID": {
+    "$oid": "64f8ba608fcc62fe3de37a2e"
+  },
+  "invoiceID": {
+    "$oid": "6866ab2a01ac0111f6808661"
+  },
+  "qty": 3,
+  "price": 70,
+  "color": "Red",
+  "size": "13",
+  "createdAt": {
+    "$date": "2025-07-03T16:09:14.989Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-03T16:09:14.989Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6866ab2a01ac0111f6808664"
+  },
+  "userID": {
+    "$oid": "67fe9154b399c80cbc78822c"
+  },
+  "productID": {
+    "$oid": "64f8ba608fcc62fe3de37a2e"
+  },
+  "invoiceID": {
+    "$oid": "6866ab2a01ac0111f6808661"
+  },
+  "qty": 5,
+  "price": 70,
+  "color": "Red",
+  "size": "13",
+  "createdAt": {
+    "$date": "2025-07-03T16:09:14.989Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-03T16:09:14.989Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6866ab2a01ac0111f6808665"
+  },
+  "userID": {
+    "$oid": "67fe9154b399c80cbc78822c"
+  },
+  "productID": {
+    "$oid": "64f8ba608fcc62fe3de37a2e"
+  },
+  "invoiceID": {
+    "$oid": "6866ab2a01ac0111f6808661"
+  },
+  "qty": 7,
+  "price": 70,
+  "color": "Red",
+  "size": "13",
+  "createdAt": {
+    "$date": "2025-07-03T16:09:14.989Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-03T16:09:14.989Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "686a1c18d315bc36165f2121"
+  },
+  "userID": {
+    "$oid": "67fe9154b399c80cbc78822c"
+  },
+  "productID": {
+    "$oid": "64f8ba608fcc62fe3de37a2e"
+  },
+  "invoiceID": {
+    "$oid": "686a1c18d315bc36165f211f"
+  },
+  "qty": 2,
+  "price": 70,
+  "color": "Black",
+  "size": "13",
+  "createdAt": {
+    "$date": "2025-07-06T06:47:52.142Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-06T06:47:52.142Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "686a1c18d315bc36165f2123"
+  },
+  "userID": {
+    "$oid": "67fe9154b399c80cbc78822c"
+  },
+  "productID": {
+    "$oid": "64f8ba608fcc62fe3de37a2e"
+  },
+  "invoiceID": {
+    "$oid": "686a1c18d315bc36165f211f"
+  },
+  "qty": 4,
+  "price": 70,
+  "color": "Black",
+  "size": "13",
+  "createdAt": {
+    "$date": "2025-07-06T06:47:52.142Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-06T06:47:52.142Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "686a1c18d315bc36165f2122"
+  },
+  "userID": {
+    "$oid": "67fe9154b399c80cbc78822c"
+  },
+  "productID": {
+    "$oid": "64f8ba608fcc62fe3de37a2e"
+  },
+  "invoiceID": {
+    "$oid": "686a1c18d315bc36165f211f"
+  },
+  "qty": 3,
+  "price": 70,
+  "color": "Black",
+  "size": "13",
+  "createdAt": {
+    "$date": "2025-07-06T06:47:52.142Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-06T06:47:52.142Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "686a1d5fd315bc36165f2179"
+  },
+  "userID": {
+    "$oid": "67fe9154b399c80cbc78822c"
+  },
+  "productID": {
+    "$oid": "64f8ba608fcc62fe3de37a2e"
+  },
+  "invoiceID": {
+    "$oid": "686a1d5fd315bc36165f2175"
+  },
+  "qty": 6,
+  "price": 70,
+  "color": "Black",
+  "size": "14",
+  "createdAt": {
+    "$date": "2025-07-06T06:53:19.131Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-06T06:53:19.131Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "686a1d5fd315bc36165f2178"
+  },
+  "userID": {
+    "$oid": "67fe9154b399c80cbc78822c"
+  },
+  "productID": {
+    "$oid": "64f8ba608fcc62fe3de37a2e"
+  },
+  "invoiceID": {
+    "$oid": "686a1d5fd315bc36165f2175"
+  },
+  "qty": 5,
+  "price": 70,
+  "color": "Black",
+  "size": "14",
+  "createdAt": {
+    "$date": "2025-07-06T06:53:19.131Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-06T06:53:19.131Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "686a1d5fd315bc36165f2177"
+  },
+  "userID": {
+    "$oid": "67fe9154b399c80cbc78822c"
+  },
+  "productID": {
+    "$oid": "64f8ba608fcc62fe3de37a2e"
+  },
+  "invoiceID": {
+    "$oid": "686a1d5fd315bc36165f2175"
+  },
+  "qty": 3,
+  "price": 70,
+  "color": "Black",
+  "size": "14",
+  "createdAt": {
+    "$date": "2025-07-06T06:53:19.131Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-06T06:53:19.131Z"
+  }
+}]

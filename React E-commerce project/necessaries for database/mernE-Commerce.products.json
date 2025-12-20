@@ -1,0 +1,778 @@
+[{
+  "_id": {
+    "$oid": "654dbf25abda0c85053c9902"
+  },
+  "title": "Asus 15 Inch MacBook Air (2023)",
+  "shortDes": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+  "price": "11000",
+  "discount": true,
+  "discountPrice": "890",
+  "image": "https://www.startech.com.bd/image/cache/catalog/laptop/apple/macbook-air-m2-chip/macbook-air-m2-chip-01-228x228.webp",
+  "star": "4",
+  "stock": true,
+  "remark": "popular",
+  "categoryID": {
+    "$oid": "64f875ed502e1b80556da14d"
+  },
+  "brandID": {
+    "$oid": "64f8751a502e1b80556da142"
+  },
+  "createdAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64f8ba608fcc62fe3de37a2e"
+  },
+  "title": "Asus 15 Inch MacBook Air (2023)",
+  "shortDes": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+  "price": "12000",
+  "discount": true,
+  "discountPrice": "70",
+  "image": "https://images.expertreviews.co.uk/wp-content/uploads/2023/06/apple_15in_macbook_air_1.jpg",
+  "star": "4",
+  "stock": true,
+  "remark": "new",
+  "categoryID": {
+    "$oid": "64f875ed502e1b80556da14d"
+  },
+  "brandID": {
+    "$oid": "64f8751a502e1b80556da142"
+  },
+  "createdAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "654dbf2eabda0c85053c9907"
+  },
+  "title": "Apple 15 Inch MacBook Air (2023)",
+  "shortDes": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+  "price": "14000",
+  "discount": true,
+  "discountPrice": "890",
+  "image": "https://laptopmedia.com/wp-content/uploads/2023/06/6-33.jpg",
+  "star": "4",
+  "stock": true,
+  "remark": "new",
+  "categoryID": {
+    "$oid": "64f875ed502e1b80556da14d"
+  },
+  "brandID": {
+    "$oid": "64f8751a502e1b80556da142"
+  },
+  "createdAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64f87d60502e1b80556da15a"
+  },
+  "title": "Apple 15 Inch MacBook Air (2023)",
+  "shortDes": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+  "price": "15000",
+  "discount": true,
+  "discountPrice": "890",
+  "image": "https://www.notebookcheck.net/fileadmin/_processed_/0/2/csm_IMG_9060_67c51dddf3.jpg",
+  "star": "4",
+  "stock": true,
+  "remark": "new",
+  "categoryID": {
+    "$oid": "64f875ed502e1b80556da14d"
+  },
+  "brandID": {
+    "$oid": "64f8751a502e1b80556da142"
+  },
+  "createdAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "651da44d1ce672f6c8b7961d"
+  },
+  "title": "Apple 15 Inch MacBook Air (2023)",
+  "shortDes": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+  "price": "16000",
+  "discount": false,
+  "discountPrice": "0",
+  "image": "https://laptopmedia.com/wp-content/uploads/2023/06/applemacbookair15mid2023featured.jpg",
+  "star": "4",
+  "stock": true,
+  "remark": "trending",
+  "categoryID": {
+    "$oid": "64f875ed502e1b80556da14d"
+  },
+  "brandID": {
+    "$oid": "64f8751a502e1b80556da142"
+  },
+  "createdAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "651da4431ce672f6c8b7961c"
+  },
+  "title": "Apple 15 Inch MacBook Air (2023)",
+  "shortDes": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+  "price": "17000",
+  "discount": false,
+  "discountPrice": "0",
+  "image": "https://www.ghacks.net/wp-content/uploads/2023/04/Apple-could-launch-new-15-inch-MacBook-Air-with-two-M2-options.jpg",
+  "star": "4",
+  "stock": true,
+  "remark": "top",
+  "categoryID": {
+    "$oid": "64f875ed502e1b80556da14d"
+  },
+  "brandID": {
+    "$oid": "64f8751a502e1b80556da142"
+  },
+  "createdAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "651da47f1ce672f6c8b7961f"
+  },
+  "title": "Apple 15 Inch MacBook Air (2023)",
+  "shortDes": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+  "price": "18000",
+  "discount": false,
+  "discountPrice": "0",
+  "image": "https://tse4.mm.bing.net/th/id/OIP.lzwe5l_X_vjVBmH_mfyxEAHaE8?cb=iwc2&w=2048&h=1366&rs=1&pid=ImgDetMain",
+  "star": "4",
+  "stock": true,
+  "remark": "popular",
+  "categoryID": {
+    "$oid": "64f875ed502e1b80556da14d"
+  },
+  "brandID": {
+    "$oid": "64f8751a502e1b80556da142"
+  },
+  "createdAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "654dbf1eabda0c85053c98ff"
+  },
+  "title": "Apple 15 Inch MacBook Air (2023)",
+  "shortDes": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+  "price": "19000",
+  "discount": true,
+  "discountPrice": "890",
+  "image": "https://www.slashgear.com/img/gallery/apple-macbook-air-m2-2022-review-setting-the-new-benchmark/l-intro-1660076004.jpg",
+  "star": "4",
+  "stock": true,
+  "remark": "new",
+  "categoryID": {
+    "$oid": "64f875ed502e1b80556da14d"
+  },
+  "brandID": {
+    "$oid": "64f8751a502e1b80556da142"
+  },
+  "createdAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "654dbf1cabda0c85053c98fe"
+  },
+  "title": "Apple 15 Inch MacBook Air (2023)",
+  "shortDes": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+  "price": "20000",
+  "discount": true,
+  "discountPrice": "890",
+  "image": "https://cdn.mos.cms.futurecdn.net/XxwLzBnPTCMir6rQ4vvVt5-1024-80.jpg",
+  "star": "4",
+  "stock": true,
+  "remark": "trending",
+  "categoryID": {
+    "$oid": "64f875ed502e1b80556da14d"
+  },
+  "brandID": {
+    "$oid": "64f8751a502e1b80556da142"
+  },
+  "createdAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "654dbf21abda0c85053c9900"
+  },
+  "title": "Apple 15 Inch MacBook Air (2023)",
+  "shortDes": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+  "price": "21000",
+  "discount": true,
+  "discountPrice": "890",
+  "image": "https://photo2.tinhte.vn/data/attachment-files/2023/01/6292859_cover_apple.jpg",
+  "star": "4",
+  "stock": true,
+  "remark": "new",
+  "categoryID": {
+    "$oid": "64f875ed502e1b80556da14d"
+  },
+  "brandID": {
+    "$oid": "64f8751a502e1b80556da142"
+  },
+  "createdAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "654dbf23abda0c85053c9901"
+  },
+  "title": "Apple 15 Inch MacBook Air (2023)",
+  "shortDes": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+  "price": "22000",
+  "discount": true,
+  "discountPrice": "890",
+  "image": "https://www.digitaltrends.com/wp-content/uploads/2018/10/apple-macbook-air-2018-hands-on_4.jpg?p=1",
+  "star": "4",
+  "stock": true,
+  "remark": "new",
+  "categoryID": {
+    "$oid": "64f875ed502e1b80556da14d"
+  },
+  "brandID": {
+    "$oid": "64f8751a502e1b80556da142"
+  },
+  "createdAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "654dbf26abda0c85053c9903"
+  },
+  "title": "Apple 15 Inch MacBook Air (2023)",
+  "shortDes": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+  "price": "23000",
+  "discount": true,
+  "discountPrice": "890",
+  "image": "https://s.yimg.com/ny/api/res/1.2/vXy32jZFUotCnBQ9W5GZeQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-06/af663ae0-0881-11ee-bd5a-9589405fcff0",
+  "star": "4",
+  "stock": true,
+  "remark": "new",
+  "categoryID": {
+    "$oid": "64f875ed502e1b80556da14d"
+  },
+  "brandID": {
+    "$oid": "64f8751a502e1b80556da142"
+  },
+  "createdAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "651da4531ce672f6c8b7961e"
+  },
+  "title": "Apple 15 Inch MacBook Air (2023)",
+  "shortDes": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+  "price": "24000",
+  "discount": false,
+  "discountPrice": "0",
+  "image": "https://cdn.mos.cms.futurecdn.net/w8bfEm9z6rY8qE7fAvSVDc.jpg",
+  "star": "4",
+  "stock": true,
+  "remark": "special",
+  "categoryID": {
+    "$oid": "64f875ed502e1b80556da14d"
+  },
+  "brandID": {
+    "$oid": "64f8751a502e1b80556da142"
+  },
+  "createdAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "654dbf28abda0c85053c9904"
+  },
+  "title": "Apple 15 Inch MacBook Air (2023)",
+  "shortDes": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+  "price": "25000",
+  "discount": true,
+  "discountPrice": "890",
+  "image": "https://th.bing.com/th/id/R.2bfc536e6191d73bbc73e5dc1e1ab950?rik=8LFRPpN2eouoWw&riu=http%3a%2f%2fscreenshield.co.za%2fcdn%2fshop%2farticles%2fmacbook_air_m2_unveiling_blog_1_2457f06d-a737-4056-b504-2580f347f0b8.jpg%3fv%3d1693407198&ehk=%2fopeyhmahbrSF3u338O816WnVNY7Eat5wy0HEJVSfVQ%3d&risl=&pid=ImgRaw&r=0",
+  "star": "4",
+  "stock": true,
+  "remark": "new",
+  "categoryID": {
+    "$oid": "64f875ed502e1b80556da14d"
+  },
+  "brandID": {
+    "$oid": "64f8751a502e1b80556da142"
+  },
+  "createdAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "654dbf2cabda0c85053c9906"
+  },
+  "title": "Apple 15 Inch MacBook Air (2023)",
+  "shortDes": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+  "price": "26000",
+  "discount": true,
+  "discountPrice": "890",
+  "image": "https://www.elitepcnj.com/wp-content/uploads/2023/10/macbookos.webp",
+  "star": "4",
+  "stock": true,
+  "remark": "new",
+  "categoryID": {
+    "$oid": "64f875ed502e1b80556da14d"
+  },
+  "brandID": {
+    "$oid": "64f8751a502e1b80556da142"
+  },
+  "createdAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6836681623dae5f785ac8bb1"
+  },
+  "title": "ASUS ROG Strix G17",
+  "description": "High-performance gaming laptop with Ryzen 9 and RTX 4070.",
+  "price": 2199.99,
+  "discount": true,
+  "discountPrice": 1999.99,
+  "image": "https://dlcdnwebimgs.asus.com/files/media/5C70957A-1479-4727-A0D0-1A860746F2F4/v5/img/nv-slick-1.jpg",
+  "star": "4.8",
+  "stock": true,
+  "remark": "Gaming Beast",
+  "categoryID": {
+    "$oid": "64f875ed502e1b80556da14d"
+  },
+  "brandID": {
+    "$oid": "64f8751a502e1b80556da146"
+  }
+},
+{
+  "_id": {
+    "$oid": "6836681623dae5f785ac8bb2"
+  },
+  "title": "DELL XPS 15",
+  "description": "Elegant and powerful ultrabook with stunning display.",
+  "price": 1799.99,
+  "discount": false,
+  "discountPrice": 1799.99,
+  "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/xps-notebooks/xps-15-9530/media-gallery/touch-black/notebook-xps-15-9530-t-black-gallery-5.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=677&qlt=100,1&resMode=sharp2&size=677,402&chrss=full",
+  "star": "4.7",
+  "stock": true,
+  "remark": "Ultrabook",
+  "categoryID": {
+    "$oid": "64f875ed502e1b80556da14d"
+  },
+  "brandID": {
+    "$oid": "64f8751a502e1b80556da144"
+  }
+},
+{
+  "_id": {
+    "$oid": "6836681623dae5f785ac8bb3"
+  },
+  "title": "Lenovo Legion 5 Pro",
+  "description": "Performance-focused gaming laptop with AMD and NVIDIA combo.",
+  "price": 1599,
+  "discount": true,
+  "discountPrice": 1449,
+  "image": "https://p4-ofp.static.pub/fes/cms/2022/06/16/s444ye7sqwg6rv1b8on54vm77eopra543125.png",
+  "star": "4.6",
+  "stock": true,
+  "remark": "Gaming",
+  "categoryID": {
+    "$oid": "64f875ed502e1b80556da14d"
+  },
+  "brandID": {
+    "$oid": "64f8751a502e1b80556da145"
+  }
+},
+{
+  "_id": {
+    "$oid": "6836681623dae5f785ac8bb4"
+  },
+  "title": "Razer Blade 15",
+  "description": "Premium gaming laptop with aluminum chassis and powerful specs.",
+  "price": 2499,
+  "discount": true,
+  "discountPrice": 2299,
+  "image": "https://assets2.razerzone.com/images/pnx.assets/a1ee4c5a780a401444be898fe93ade69/thumbnail-blade15-new-model.webp",
+  "star": "4.9",
+  "stock": true,
+  "remark": "Gaming Premium",
+  "categoryID": {
+    "$oid": "64f875ed502e1b80556da14d"
+  },
+  "brandID": {
+    "$oid": "64f8751a502e1b80556da149"
+  }
+},
+{
+  "_id": {
+    "$oid": "6836681623dae5f785ac8bb5"
+  },
+  "title": "Microsoft Surface Laptop 5",
+  "description": "Sleek and stylish productivity laptop with excellent battery life.",
+  "price": 1399,
+  "discount": false,
+  "discountPrice": 1399,
+  "image": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/360-view-laptop-rotation_RE50Ovy?scl=1",
+  "star": "4.5",
+  "stock": true,
+  "remark": "Productivity",
+  "categoryID": {
+    "$oid": "64f875ed502e1b80556da14d"
+  },
+  "brandID": {
+    "$oid": "64f8751a502e1b80556da147"
+  }
+},
+{
+  "_id": {
+    "$oid": "6836681623dae5f785ac8bb6"
+  },
+  "title": "Samsung Galaxy Book3 Pro",
+  "description": "Lightweight and fast laptop with AMOLED display.",
+  "price": 1699.99,
+  "discount": true,
+  "discountPrice": 1499.99,
+  "image": "https://img.us.news.samsung.com/us/wp-content/uploads/2018/10/14104306/galaxy_book_2_sv_v_right_keyboard_up_spen_rgb.jpeg",
+  "star": "4.4",
+  "stock": true,
+  "remark": "AMOLED Display",
+  "categoryID": {
+    "$oid": "64f875ed502e1b80556da14d"
+  },
+  "brandID": {
+    "$oid": "64f8751a502e1b80556da14a"
+  }
+},
+{
+  "_id": {
+    "$oid": "6836681623dae5f785ac8bb7"
+  },
+  "title": "HP Spectre x360",
+  "price": 1599,
+  "discount": false,
+  "discountPrice": 1599,
+  "image": "https://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c08799380.png?imdensity=1&impolicy=Png_Res",
+  "star": "4.6",
+  "stock": true,
+  "remark": "2-in-1",
+  "categoryID": {
+    "$oid": "64f875ed502e1b80556da14d"
+  },
+  "brandID": {
+    "$oid": "64f8751a502e1b80556da143"
+  },
+  "des": "Convertible laptop with stunning design and performance."
+},
+{
+  "_id": {
+    "$oid": "6836681623dae5f785ac8bb8"
+  },
+  "title": "Acer Predator Helios 300",
+  "price": 1299,
+  "discount": true,
+  "discountPrice": 1199,
+  "image": "https://images.acer.com/is/image/acer/Predator-Helios-300-PH-315-54-Backliton-Black-01a-1?$Visual-Filter-XL$",
+  "star": "4.3",
+  "stock": true,
+  "remark": "Gaming Budget",
+  "categoryID": {
+    "$oid": "64f875ed502e1b80556da14d"
+  },
+  "brandID": {
+    "$oid": "64f8751a502e1b80556da148"
+  },
+  "des": "Popular gaming laptop with strong specs at a good price."
+},
+{
+  "_id": {
+    "$oid": "6836681623dae5f785ac8bb9"
+  },
+  "title": "MSI Stealth 16",
+  "description": "Portable gaming powerhouse with minimalist design.",
+  "price": 1899.99,
+  "discount": false,
+  "discountPrice": 1899.99,
+  "image": "/images/msi_stealth_16.jpg",
+  "star": "4.6",
+  "stock": true,
+  "remark": "Stealth Design",
+  "categoryID": {
+    "$oid": "64f875ed502e1b80556da14d"
+  },
+  "brandID": {
+    "$oid": "64f8751a502e1b80556da14b"
+  }
+},
+{
+  "_id": {
+    "$oid": "6836681623dae5f785ac8bba"
+  },
+  "title": "Apple MacBook Pro M2 14\"",
+  "description": "Apple's top-tier laptop with blazing fast M2 Pro chip.",
+  "price": 1999,
+  "discount": false,
+  "discountPrice": 1999,
+  "image": "/images/macbook_pro_m2_14.jpg",
+  "star": "4.9",
+  "stock": true,
+  "remark": "Creative Pro",
+  "categoryID": {
+    "$oid": "6634a1f5ab12cd34f0a12345"
+  },
+  "brandID": {
+    "$oid": "6634a2f5ab12cd34f0a12310"
+  }
+},
+{
+  "_id": {
+    "$oid": "6836681623dae5f785ac8bbb"
+  },
+  "title": "ASUS ZenBook 14 OLED",
+  "description": "Ultra-light OLED laptop with Ryzen 7 and premium design.",
+  "price": 1099,
+  "discount": true,
+  "discountPrice": 999,
+  "image": "/images/asus_zenbook_14.jpg",
+  "star": "4.5",
+  "stock": true,
+  "remark": "Ultraportable",
+  "categoryID": {
+    "$oid": "6634a2f5ab12cd34f0a12303"
+  },
+  "brandID": {
+    "$oid": "6634a2f5ab12cd34f0a12303"
+  }
+},
+{
+  "_id": {
+    "$oid": "6836681623dae5f785ac8bbc"
+  },
+  "title": "DELL Inspiron 16 Plus",
+  "description": "Big-screen productivity laptop with 13th Gen Intel CPU.",
+  "price": 1299,
+  "discount": false,
+  "discountPrice": 1299,
+  "image": "/images/dell_inspiron_16_plus.jpg",
+  "star": "4.2",
+  "stock": true,
+  "remark": "Work & Study",
+  "categoryID": "6634a1f5ab12cd34f0a12345",
+  "brandID": "6634a2f5ab12cd34f0a12302"
+},
+{
+  "_id": {
+    "$oid": "6836681623dae5f785ac8bbd"
+  },
+  "title": "Lenovo Yoga 9i",
+  "description": "Premium 2-in-1 laptop with touch screen and stylus.",
+  "price": 1399,
+  "discount": true,
+  "discountPrice": 1249,
+  "image": "/images/lenovo_yoga_9i.jpg",
+  "star": "4.7",
+  "stock": true,
+  "remark": "Convertible",
+  "categoryID": "6634a1f5ab12cd34f0a12345",
+  "brandID": "6634a2f5ab12cd34f0a12303"
+},
+{
+  "_id": {
+    "$oid": "6836681623dae5f785ac8bbe"
+  },
+  "title": "Razer Book 13",
+  "description": "Compact ultrabook designed for professionals on the go.",
+  "price": 1399,
+  "discount": false,
+  "discountPrice": 1399,
+  "image": "/images/razer_book_13.jpg",
+  "star": "4.3",
+  "stock": true,
+  "remark": "Ultrabook",
+  "categoryID": "6634a1f5ab12cd34f0a12345",
+  "brandID": "6634a2f5ab12cd34f0a12304"
+},
+{
+  "_id": {
+    "$oid": "6836681623dae5f785ac8bbf"
+  },
+  "title": "Microsoft Surface Pro 9",
+  "description": "Tablet-laptop hybrid with powerful Intel chip and touch display.",
+  "price": 1499,
+  "discount": true,
+  "discountPrice": 1349,
+  "image": "/images/surface_pro_9.jpg",
+  "star": "4.6",
+  "stock": true,
+  "remark": "Hybrid",
+  "categoryID": "6634a1f5ab12cd34f0a12345",
+  "brandID": "6634a2f5ab12cd34f0a12305"
+},
+{
+  "_id": {
+    "$oid": "6836681623dae5f785ac8bc0"
+  },
+  "title": "Samsung Galaxy Book2 360",
+  "description": "Convertible and lightweight laptop with AMOLED display.",
+  "price": 1199,
+  "discount": false,
+  "discountPrice": 1199,
+  "image": "/images/samsung_galaxy_book2_360.jpg",
+  "star": "4.4",
+  "stock": true,
+  "remark": "2-in-1 AMOLED",
+  "categoryID": "6634a1f5ab12cd34f0a12345",
+  "brandID": "6634a2f5ab12cd34f0a12306"
+},
+{
+  "_id": {
+    "$oid": "6836681623dae5f785ac8bc1"
+  },
+  "title": "HP Envy x360 15",
+  "description": "Flexible laptop with AMD Ryzen and beautiful touchscreen.",
+  "price": 999,
+  "discount": true,
+  "discountPrice": 899,
+  "image": "/images/hp_envy_x360_15.jpg",
+  "star": "4.5",
+  "stock": true,
+  "remark": "Budget 2-in-1",
+  "categoryID": "6634a1f5ab12cd34f0a12345",
+  "brandID": "6634a2f5ab12cd34f0a12307"
+},
+{
+  "_id": {
+    "$oid": "6836681623dae5f785ac8bc2"
+  },
+  "title": "Acer Swift X",
+  "description": "Great value laptop for creators and students.",
+  "price": 949,
+  "discount": true,
+  "discountPrice": 849,
+  "image": "/images/acer_swift_x.jpg",
+  "star": "4.2",
+  "stock": true,
+  "remark": "Creator Budget",
+  "categoryID": "6634a1f5ab12cd34f0a12345",
+  "brandID": "6634a2f5ab12cd34f0a12308"
+},
+{
+  "_id": {
+    "$oid": "6836681623dae5f785ac8bc3"
+  },
+  "title": "MSI Creator Z16",
+  "description": "Powerful workstation for content creators and professionals.",
+  "price": 2499,
+  "discount": false,
+  "discountPrice": 2499,
+  "image": "/images/msi_creator_z16.jpg",
+  "star": "4.8",
+  "stock": true,
+  "remark": "Creator Pro",
+  "categoryID": "6634a1f5ab12cd34f0a12345",
+  "brandID": "6634a2f5ab12cd34f0a12309"
+},
+{
+  "_id": {
+    "$oid": "6836681623dae5f785ac8bc4"
+  },
+  "title": "Apple MacBook Air M3",
+  "description": "Light and efficient laptop powered by Apple M3 chip.",
+  "price": 1199,
+  "discount": false,
+  "discountPrice": 1199,
+  "image": "/images/macbook_air_m3.jpg",
+  "star": "4.7",
+  "stock": true,
+  "remark": "Student Favorite",
+  "categoryID": {
+    "$oid": "6634a1f5ab12cd34f0a12345"
+  },
+  "brandID": {
+    "$oid": "6634a2f5ab12cd34f0a12310"
+  }
+},
+{
+  "_id": {
+    "$oid": "684cfaec2f9e89772d56c4cf"
+  },
+  "title": "Canon EOS R5",
+  "description": "A high-resolution full-frame mirrorless camera with 8K video recording.",
+  "price": 3899.99,
+  "discount": true,
+  "discountPrice": 3599.99,
+  "image": "https://s7d1.scene7.com/is/image/canon/4147C002_eos-r5-body_primary?fmt=webp-alpha&wid=800",
+  "star": "5.0",
+  "stock": true,
+  "remark": "Professional mirrorless camera for photography and videography.",
+  "categoryID": {
+    "$oid": "64f875ed502e1b80556da152"
+  },
+  "brandID": {
+    "$oid": "6865e0927a4ca74ef5a5b075"
+  }
+}]
