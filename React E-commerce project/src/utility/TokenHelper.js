@@ -1,7 +1,7 @@
 import jwt from "jsonwebtoken";
 
 // Make these non-async since jwt.sign and jwt.verify are synchronous
-export function EncodeToken(email, user_id) {
+export function EncodeToken(email, user_id, role) {
     let KEY = "123-ABC-987-XYZ";
     let EXPIRE = {expiresIn: "24h"};
     let PAYLOAD = {

@@ -4,7 +4,7 @@ import UserSubmitButton from './UserSubmitButton';
 import UserStore from '../../store/UserStore';
 import ValidationHelper from '../../utility/ValidationHelper';
 import toast from 'react-hot-toast';
-import { useNavigate } from 'react-router-dom';
+import { Link, useNavigate } from 'react-router-dom';
 
 const LoginForm = () => {
 
@@ -41,6 +41,16 @@ const LoginForm = () => {
                                 className="form-control form-control-lg rounded-3"
                                 placeholder="you@example.com"
                             />
+
+                            <label htmlFor="emailInput" className="form-label fw-semibold">Password</label>
+                            <input
+                                type="password"
+                                value={LoginFormData.password}
+                                onChange={(e) => { LoginFormOnChange("password", e.target.value) }}
+                                id="emailInput"
+                                className="form-control form-control-lg rounded-3"
+                                placeholder="password"
+                            />
                         </div>
 
                         <UserSubmitButton
@@ -51,7 +61,9 @@ const LoginForm = () => {
                     </form>
 
                     <div className="text-center mt-4">
-                        <p className="small text-muted">Need help? <a href="#" className="text-Success fw-semibold">Contact Support</a></p>
+                        <Link to="/register">
+                            <p className="small text-muted">Don't have an account? <a href="/register" className="text-Success fw-semibold">Sign Up now.</a></p>
+                        </Link>
                     </div>
                 </div>
             </div>

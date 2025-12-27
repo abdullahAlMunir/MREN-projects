@@ -1,0 +1,56 @@
+[{
+  "_id": {
+    "$oid": "6523f504caeadcd818561fb3"
+  },
+  "name": "HP Pavilion series Gaming Laptop Coming Up.",
+  "description": "A brand now laptop preparing its potantial to perform the bast.",
+  "img": "https://cdn.dribbble.com/userupload/34052675/file/original-84ae825b271118828aaca036257145d9.jpg?format=webp&resize=450x338&vertical=center",
+  "createdAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6523f504caeadcd818561fb2"
+  },
+  "name": "Explore the gadgets to feel the future.",
+  "description": "A lot of gadgets have joined us to feel you the future.",
+  "img": "https://cdn.dribbble.com/userupload/5941831/file/original-5df278e8481e63956cfea195922b5876.png?format=webp&resize=450x338&vertical=center",
+  "createdAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6523f504caeadcd818561fb0"
+  },
+  "name": "Free Delivery",
+  "description": "For All Orders Over $99",
+  "img": "https://cdn.dribbble.com/userupload/4541598/file/original-ba46af24fd83e9cc15ba3954d92ad189.jpg?format=webp&resize=450x338&vertical=center",
+  "createdAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6523f504caeadcd818561fb1"
+  },
+  "name": "Don't forget to explore the smartwatch collection.",
+  "description": "The world is over your hand.",
+  "img": "https://cdn.dribbble.com/userupload/39916961/file/original-4f6df84fd45e783dd1b7e1b764933b81.jpg?format=webp&resize=450x338&vertical=center",
+  "createdAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  }
+}]

@@ -10,13 +10,13 @@ const OtpForm = () => {
 
     let navigate = useNavigate();
 
-    const { VerifyFormData, VerifyFormOnChange, VerifyLoginRequest } = UserStore();
+    const { VerifyRegistrationFormData, VerifyRegistrationFormOnChange, VerifyRegistrationFormRequest } = UserStore();
 
     const onFormSubmit = async () => {
-        if (ValidationHelper.IsEmpty(VerifyFormData.otp)) {
+        if (ValidationHelper.IsEmpty(VerifyRegistrationFormData.otp)) {
             toast.error("Valid Email Address Required.")
         } else {
-            let res = await VerifyLoginRequest(VerifyFormData.otp);
+            let res = await VerifyRegistrationFormRequest(VerifyRegistrationFormData.otp);
             return res ? navigate("/") : toast.error("Something went Wrong!")
         }
     }
@@ -35,8 +35,8 @@ const OtpForm = () => {
                             <label htmlFor="verifyCode" className="form-label fw-semibold">Verification Code</label>
                             <input
                                 type="password"
-                                value={VerifyFormData.otp}
-                                onChange={(e) => { VerifyFormOnChange("otp", e.target.value) }}
+                                value={VerifyRegistrationFormData.otp}
+                                onChange={(e) => { VerifyRegistrationFormOnChange("otp", e.target.value) }}
                                 id="verifyCode"
                                 className="form-control form-control-lg text-center rounded-3"
                                 placeholder="Enter code"

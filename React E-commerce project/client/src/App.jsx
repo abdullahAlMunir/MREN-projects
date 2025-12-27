@@ -12,7 +12,8 @@ import HowToBuyPage from './pages/HowToBuyPage';
 import ContactPage from './pages/ContactPage';
 import ComplainPage from './pages/ComplainPage';
 import LoginPage from './pages/LoginPage';
-import OtpPage from './pages/OtpPage';
+import RegistrationPage from './pages/RegistrationPage';
+import VerifyRegistration from './pages/VerifyRegistration';
 import ProfilePage from './pages/ProfilePage';
 import WishPage from './pages/WishPage';
 import CartPage from './pages/CartPage';
@@ -39,8 +40,10 @@ const AppContent = () => {
         <Route path='/contact' element={<ContactPage />}></Route>
         <Route path='/complain' element={<ComplainPage />}></Route>
 
+        <Route path='/register' element={<RegistrationPage />}></Route>
+        
         <Route path='/login' element={<LoginPage />}></Route>
-        <Route path='/verifyLogin' element={<OtpPage />}></Route>
+        <Route path='/verifyRegistration' element={<VerifyRegistration />}></Route>
         <Route path='/Profile' element={<ProfilePage />}></Route>
 
         <Route path='/cartList' element={<CartPage />}></Route>

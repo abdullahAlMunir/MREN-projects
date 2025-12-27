@@ -1,0 +1,95 @@
+[{
+  "_id": {
+    "$oid": "686209f7ee1fb8c921e605c8"
+  },
+  "productID": {
+    "$oid": "684cfaec2f9e89772d56c4cf"
+  },
+  "userID": {
+    "$oid": "67fe9154b399c80cbc78822c"
+  },
+  "des": "This camera is the most lovely camera that I have ever bought.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2025-06-30T03:52:23.904Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-30T03:52:23.904Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68620acaee1fb8c921e605ca"
+  },
+  "productID": {
+    "$oid": "684cfaec2f9e89772d56c4cf"
+  },
+  "userID": {
+    "$oid": "67fe9154b399c80cbc78822c"
+  },
+  "des": "sddfg",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2025-06-30T03:55:54.336Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-30T03:55:54.336Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68620ea3596f47c633aaeb3d"
+  },
+  "productID": {
+    "$oid": "684cfaec2f9e89772d56c4cf"
+  },
+  "userID": {
+    "$oid": "67fe9154b399c80cbc78822c"
+  },
+  "des": "This camera is the most lovely camera among the cameras that I have already used till now.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2025-06-30T04:12:19.431Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-30T04:12:19.431Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68669d063c336a9dd6aca2b3"
+  },
+  "productID": {
+    "$oid": "651da44d1ce672f6c8b7961d"
+  },
+  "userID": {
+    "$oid": "67fe9154b399c80cbc78822c"
+  },
+  "des": "This is a symbol of beauty.",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2025-07-03T15:08:54.456Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-03T15:08:54.456Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6866ab4501ac0111f6808679"
+  },
+  "productID": {
+    "$oid": "64f8ba608fcc62fe3de37a2e"
+  },
+  "userID": {
+    "$oid": "67fe9154b399c80cbc78822c"
+  },
+  "des": "Great!",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2025-07-03T16:09:41.196Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-03T16:09:41.196Z"
+  }
+}]

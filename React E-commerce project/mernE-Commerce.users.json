@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "694e147450917f7a678ddc81"
+  },
+  "email": "ms2954856@gmail.com",
+  "createdAt": {
+    "$date": "2025-12-26T04:52:04.865Z"
+  },
+  "isActive": true,
+  "isVerified": false,
+  "name": "Abdullah Al M",
+  "password": "$2b$10$FIt/jbpNYnPrNVR7.sloUOvs0yyvSSWv177l8ohlY8E39SN8ZX1Du",
+  "role": "user",
+  "updatedAt": {
+    "$date": "2025-12-26T04:52:08.039Z"
+  },
+  "otp": "913481"
+}]

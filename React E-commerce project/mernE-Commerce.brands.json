@@ -1,0 +1,139 @@
+[{
+  "_id": {
+    "$oid": "64f8751a502e1b80556da144"
+  },
+  "brandName": "Dell",
+  "brandImg": "https://media.istockphoto.com/id/1955715709/vector/responsive-design-laptop-tablet-and-smartphone-screen-icon.jpg?s=612x612&w=0&k=20&c=dHfEhUymdkdDzEs3mQsyXpYZlAO0Va_R5ODbFhVCbuw=",
+  "createdAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64f8751a502e1b80556da147"
+  },
+  "brandName": "Microsoft",
+  "brandImg": "https://media.istockphoto.com/id/1955715709/vector/responsive-design-laptop-tablet-and-smartphone-screen-icon.jpg?s=612x612&w=0&k=20&c=dHfEhUymdkdDzEs3mQsyXpYZlAO0Va_R5ODbFhVCbuw=",
+  "createdAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64f8751a502e1b80556da14b"
+  },
+  "brandName": "MSI",
+  "brandImg": "https://media.istockphoto.com/id/1955715709/vector/responsive-design-laptop-tablet-and-smartphone-screen-icon.jpg?s=612x612&w=0&k=20&c=dHfEhUymdkdDzEs3mQsyXpYZlAO0Va_R5ODbFhVCbuw=",
+  "createdAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64f8751a502e1b80556da142"
+  },
+  "brandName": "Apple",
+  "brandImg": "https://media.istockphoto.com/id/1955715709/vector/responsive-design-laptop-tablet-and-smartphone-screen-icon.jpg?s=612x612&w=0&k=20&c=dHfEhUymdkdDzEs3mQsyXpYZlAO0Va_R5ODbFhVCbuw=",
+  "createdAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64f8751a502e1b80556da143"
+  },
+  "brandName": "HP",
+  "brandImg": "https://media.istockphoto.com/id/1955715709/vector/responsive-design-laptop-tablet-and-smartphone-screen-icon.jpg?s=612x612&w=0&k=20&c=dHfEhUymdkdDzEs3mQsyXpYZlAO0Va_R5ODbFhVCbuw=",
+  "createdAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64f8751a502e1b80556da146"
+  },
+  "brandName": "Asus",
+  "brandImg": "https://media.istockphoto.com/id/1955715709/vector/responsive-design-laptop-tablet-and-smartphone-screen-icon.jpg?s=612x612&w=0&k=20&c=dHfEhUymdkdDzEs3mQsyXpYZlAO0Va_R5ODbFhVCbuw=",
+  "createdAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64f8751a502e1b80556da14a"
+  },
+  "brandName": "Samsung",
+  "brandImg": "https://media.istockphoto.com/id/1955715709/vector/responsive-design-laptop-tablet-and-smartphone-screen-icon.jpg?s=612x612&w=0&k=20&c=dHfEhUymdkdDzEs3mQsyXpYZlAO0Va_R5ODbFhVCbuw=",
+  "createdAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64f8751a502e1b80556da148"
+  },
+  "brandName": "Acer",
+  "brandImg": "https://media.istockphoto.com/id/1955715709/vector/responsive-design-laptop-tablet-and-smartphone-screen-icon.jpg?s=612x612&w=0&k=20&c=dHfEhUymdkdDzEs3mQsyXpYZlAO0Va_R5ODbFhVCbuw=",
+  "createdAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64f8751a502e1b80556da145"
+  },
+  "brandName": "Lenovo",
+  "brandImg": "https://media.istockphoto.com/id/1955715709/vector/responsive-design-laptop-tablet-and-smartphone-screen-icon.jpg?s=612x612&w=0&k=20&c=dHfEhUymdkdDzEs3mQsyXpYZlAO0Va_R5ODbFhVCbuw=",
+  "createdAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64f8751a502e1b80556da149"
+  },
+  "brandName": "Razer",
+  "brandImg": "https://media.istockphoto.com/id/1955715709/vector/responsive-design-laptop-tablet-and-smartphone-screen-icon.jpg?s=612x612&w=0&k=20&c=dHfEhUymdkdDzEs3mQsyXpYZlAO0Va_R5ODbFhVCbuw=",
+  "createdAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6865e0927a4ca74ef5a5b075"
+  },
+  "brandName": "Canon",
+  "brandImg": "",
+  "createdAt": "2023-09-20T17:17:56.893+00:00",
+  "updatedAt": "2023-09-20T17:17:56.893+00:00"
+}]

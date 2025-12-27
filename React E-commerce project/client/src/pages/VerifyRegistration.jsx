@@ -1,11 +1,11 @@
 import React from 'react';
-import OtpForm from '../components/user/OtpForm';
+import VerifyRegistrationForm from '../components/user/VerifyRegistrationForm';
 import Layout from '../components/layout/Layout';
 
 const OtpPage = () => {
     return (
         <Layout>
-             <OtpForm />
+             <VerifyRegistrationForm />
         </Layout>
     );
 };

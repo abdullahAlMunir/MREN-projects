@@ -26,8 +26,9 @@ router.get("/ProductReviewList/:ProductID", ProductController.ProductReviewList)
 router.post("/ProductListByFilter", ProductController.ProductListByFilter)
 
 // User routes/endpoints
-router.get("/UserOTP/:email", UserController.UserOTP)
-router.get("/VerifyLogin/:email/:otp", UserController.VerifyLogin)
+router.get("/UserOTP", UserController.UserOTP)
+router.get("/VerifyRegistration", UserController.VerifyRegistration)
+router.post("/register", UserController.RegisterUser)
 router.get("/UserLogout", AuthVerification, UserController.UserLogout)
 router.post("/CreateProfile", AuthVerification, UserController.CreateProfile)
 router.get('/ReadProfile', AuthVerification, UserController.ReadProfile)
@@ -63,10 +64,4 @@ router.get("/LegalDetails/:type", FeaturesController.LegalDetails)
 
 // review routes/endpoints
 router.post("/CreateReview", AuthVerification, ProductController.CreateReview)
-
-
-
-
-// Admin routes/endpoints
-router.get("/admin/dashboard", )
 export default router;

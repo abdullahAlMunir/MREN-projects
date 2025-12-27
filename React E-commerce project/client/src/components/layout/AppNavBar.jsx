@@ -125,7 +125,7 @@ const AppNavBar = () => {
                                     </Link>
                                 </>
                             ) : (
-                                <Link to="/login" className="btn btn-Success w-100 w-lg-auto">
+                                <Link to="/login" className="btn btn-Success w-100 w-lg-auto fw-semibold">
                                     Login
                                 </Link>
                             )}

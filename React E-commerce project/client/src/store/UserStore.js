@@ -1,8 +1,9 @@
 import { create } from "zustand";
 import axios from 'axios';
-import { setEmail, getEmail } from "../utility/utility";
+import { setEmail } from "../utility/utility";
 import Cookies from "js-cookie";
 import { unauthorized } from '../utility/utility';
+import RegisterForm from '../components/user/RegistrationForm';
 
 const UserStore = create((set) => ({
 
@@ -48,16 +49,60 @@ const UserStore = create((set) => ({
         return res.data["status"] === "Success";
     },
 
-    VerifyLoginRequest: async (otp) => {
-        set({ isFormSubmitted: true })
-        let email = getEmail();
-        let res = await axios.get(`/api/v1/VerifyLogin/${email}/${otp}`);
-        set({ isFormSubmitted: false })
-        if (res.data["status"] === "Success" && res.data["token"]) {
-            Cookies.set("token", res.data["token"], { expires: 1 }); // Store token in cookie for 1 day
-            return true;
+    // VerifyRegistrationRequest: async (otp) => {
+    //     set({ isFormSubmitted: true })
+    //     let email = getEmail();
+    //     let res = await axios.get(`/api/v1/VerifyRegistration/${email}/${otp}`);
+    //     set({ isFormSubmitted: false })
+    //     if (res.data["status"] === "Success" && res.data["token"]) {
+    //         Cookies.set("token", res.data["token"], { expires: 1 }); // Store token in cookie for 1 day
+    //         return true;
+    //     }
+    //     return false;
+    // },
+
+    RegistrationFormData: { name: "", email: "", password: "", role: "" },
+    RegistrationFormOnChange: (name, value) => {
+        set((state) => ({
+            RegistrationFormData: {
+                ...state.RegistrationFormData,
+                [name]: value
+            }
+        }))
+    },
+
+    isRegistrationFormSubmitted: false,
+    RegistrationFormRequest: async (PostBody) => {
+        try {
+            set({ isRegistrationFormSubmitted: true });
+            let res = await axios.post(`/api/v1/register`, PostBody);
+            return res.data["status"] === "Success";
+        } catch (error) {
+            unauthorized(error.response.status);
+            return false;
         }
-        return false;
+    },
+
+    VerifyRegistrationFormData: { otp: "" },
+    VerifyRegistrationFormOnChange: (name, value) => {
+        set((state) => ({
+            VerifyRegistrationFormData: {
+                ...state.VerifyRegistrationFormData,
+                [name]: value
+            }
+        }))
+    },
+
+    isVerifyRegistrationFormDataSubmitted: false,
+    VerifyRegistrationFormRequest: async (PostBody) => {
+        try {
+            set({ isRegisterFormSubmitted: true });
+            let res = await axios.post(`/api/v1/VerifyRegistration`, PostBody);
+            return res.data["status"] === "Success";
+        } catch (error) {
+            unauthorized(error.response.status);
+
+        }
     },
 
     ProfileForm: { customerAddress: "", customerCity: "", customerCountry: "", customerFax: "", customerName: "", customerPhone: "", customerPostCode: "", customerState: "", shippingAddress: "", shippingCity: "", shippingCountry: "", shippingName: "", shippingPhone: "", shippingPostCode: "", shippingState: "" },

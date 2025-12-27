@@ -1,0 +1,130 @@
+[{
+  "_id": {
+    "$oid": "64f875ed502e1b80556da14d"
+  },
+  "categoryName": "Laptop",
+  "categoryImg": "https://i.pinimg.com/736x/9e/35/ee/9e35eeb378207b66658ad41346f7c0ae.jpg",
+  "createdAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64f875ed502e1b80556da14e"
+  },
+  "categoryName": "Mobile",
+  "categoryImg": "https://www.iconpacks.net/icons/2/free-mobile-phone-icon-2636-thumb.png",
+  "createdAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64f875ed502e1b80556da14f"
+  },
+  "categoryName": "Headphone",
+  "categoryImg": "https://cdn1.iconfinder.com/data/icons/electronic-device-glyph-1/64/electronic_devices_7-512.png",
+  "createdAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64f875ed502e1b80556da150"
+  },
+  "categoryName": "Smartwatch",
+  "categoryImg": "https://img.icons8.com/ios7/600w/apple-watch-apps.png",
+  "createdAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64f875ed502e1b80556da151"
+  },
+  "categoryName": "Television",
+  "categoryImg": "https://static.vecteezy.com/system/resources/thumbnails/010/451/460/small/tv-monitor-icon-isolated-on-white-background-free-vector.jpg",
+  "createdAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64f875ed502e1b80556da152"
+  },
+  "categoryName": "Camera",
+  "categoryImg": "https://static.vecteezy.com/system/resources/previews/006/998/431/non_2x/photo-camera-icons-photo-camera-icon-design-illustration-photo-camera-simple-sign-photo-camera-image-vector.jpg",
+  "createdAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64f875ed502e1b80556da153"
+  },
+  "categoryName": "Printer",
+  "categoryImg": "https://png.pngtree.com/png-vector/20190228/ourmid/pngtree-printer-icon-design-template-vector-illustration-png-image_710442.jpg",
+  "createdAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64f875ed502e1b80556da154"
+  },
+  "categoryName": "Keyboard",
+  "categoryImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF0tk1KLAbWsF3YCiS5bokjdngg0br_0zMjg&s",
+  "createdAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64f875ed502e1b80556da155"
+  },
+  "categoryName": "Mouse",
+  "categoryImg": "https://cdn-icons-png.flaticon.com/512/88/88221.png",
+  "createdAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64f875ed502e1b80556da156"
+  },
+  "categoryName": "Speaker",
+  "categoryImg": "https://cdn-icons-png.flaticon.com/512/4345/4345784.png",
+  "createdAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  }
+}]

@@ -1,0 +1,44 @@
+[{
+  "_id": {
+    "$oid": "65a2c4b1f1ae62750f402665"
+  },
+  "userID": {
+    "$oid": "67fe9154b399c80cbc78822c"
+  },
+  "createdAt": {
+    "$date": "2024-01-13T17:13:21.413Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-18T10:43:19.229Z"
+  },
+  "shipmentAddress": "Shekhertek 8,Mohammadpur, Adabor, Dhaka-1207",
+  "shipmentCity": "Dhaka",
+  "shipmentCountry": "Bangladesh",
+  "shipmentName": "Abdullah AL Munir",
+  "shipmentPhone": "01785388919",
+  "shipmentPostcode": "1207",
+  "shipmentState": "Dhaka",
+  "customerAddress": "Shekhertek 8,Mohammadpur, Adabor, Dhaka-1207",
+  "customerCity": "Dhaka",
+  "customerCountry": "Bangladesh",
+  "customerFax": "01785388919",
+  "customerName": "Abdullah AL Munir",
+  "customerPhone": "01785388919",
+  "customerPostcode": "1207",
+  "customerState": "chittagong"
+},
+{
+  "_id": {
+    "$oid": "694e1474bf270704ba8d3006"
+  },
+  "userID": {
+    "$oid": "694e147450917f7a678ddc81"
+  },
+  "customerName": "Abdullah Al M",
+  "createdAt": {
+    "$date": "2025-12-26T04:52:04.878Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-26T04:52:04.878Z"
+  }
+}]
